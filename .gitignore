@@ -1,0 +1,12 @@
+# 本地 / 构建产物（无需上传到仓库）
+build/
+app/build/
+.gradle/
+*.apk
+*.aab
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
